@@ -1,0 +1,28 @@
+{
+  "catalogs": [
+    {
+      "name": " AKCIJSKI KATALOG ",
+      "link": "https://www.tus.si/app/uploads/catalogues/20240610061931_24_AKCIJSKI_LETAK_12.6.-18.6_850belX.pdf",
+      "dateInfo": {
+        "start": "2024-06-12",
+        "end": "2024-06-18"
+      }
+    },
+    {
+      "name": " MOJIH 10 ",
+      "link": "https://www.tus.si/app/uploads/catalogues/20240508072707_03_Mojih_10_10.5.-29.6.2024_M3_24_1.pdf",
+      "dateInfo": {
+        "start": "2024-05-10",
+        "end": "2024-06-29"
+      }
+    },
+    {
+      "name": " PRIPRAVLJENI NA POLETJE ",
+      "link": "https://www.tus.si/app/uploads/catalogues/20240610062041_24_letak_soncenje_12.6.-26.6_l8T5CVj.pdf",
+      "dateInfo": {
+        "start": "2024-06-12",
+        "end": "2024-06-26"
+      }
+    }
+  ]
+}
